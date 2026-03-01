@@ -1,4 +1,4 @@
-package com.reconciler.ContactReconciler.service.impl;
+package com.reconciler.ContactReconciler.service.implementation;
 
 import com.reconciler.ContactReconciler.dto.request.IdentifyRequest;
 import com.reconciler.ContactReconciler.dto.response.ContactResponse;
