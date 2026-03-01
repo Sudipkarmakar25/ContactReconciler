@@ -1,6 +1,6 @@
 package com.reconciler.ContactReconciler.enums;
 
-public enum LinkPrecendence {
+public enum LinkPrecedence {
     PRIMARY,
     SECONDARY
 }
